@@ -1,6 +1,4 @@
-# assignment2024scala - Main 3
-
-* deadline: 2 January, 4pm
-* [coursework description](https://nms.kcl.ac.uk/christian.urban/main_cw03.pdf)
-* reference jar:
-      [re.jar](https://nms.kcl.ac.uk/christian.urban/re.jar)
+# Regular Expression Engine
+Brzozowski derivative-based regex matcher with 
+algebraic simplification to prevent exponential 
+blowup on complex patterns.
